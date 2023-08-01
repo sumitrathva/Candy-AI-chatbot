@@ -1,5 +1,4 @@
-# Candy-AI-chatbot
-Telegram's most Advance AI Chat bot which can chat like human beings
+
 
 # Candy-AI-chatbot
 This is smooth &amp; fastest chatbot  based on mongo database which work on telegram group & Private Chat
